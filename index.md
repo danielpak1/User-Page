@@ -1,6 +1,6 @@
 # Welcome to my page!
 ![Picture of me](my_photo.jpg)
-My name is *Daniel Pak* and I am a third-year computer engineering student. I currently work at the EnVision Maker Studio as a staff member, troubleshooting the server and designing PCBs. My hobbies include: chess :chess_pawn:, digital art :art:, and reading manga :closed_book:.
+My name is *Daniel Pak* and I am a third-year computer engineering student. I currently work at the EnVision Maker Studio as a staff member, troubleshooting the server and designing PCBs. My hobbies include: chess, digital art, and reading manga.
 
 ## Table of Contents
 - [Welcome to my page!](#welcome-to-my-page)
