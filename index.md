@@ -1,35 +1,33 @@
-# Table of Contents
-1. [Welcome to my page!](#Welcome-to-my-page!)
-   - Chapter 1.1
-2. [Stuff I need to include](#stuff-i-need-to-include)
-
 # Welcome to my page!
-
 ![Picture of me](my_photo.jpg)
-## *About me*
-My name is Daniel Pak and I 
+My name is *Daniel Pak* and I am a third-year computer engineering student. I currently work at the EnVision Maker Studio as a staff member, troubleshooting the server and designing PCBs. My hobbies include: chess :chess_pawn:, digital art :art:, and reading manga :closed_book:.
 
-## *My favorite quote*
-Sun Tzu, The Art of:
+## Table of Contents
+- [Welcome to my page!](#welcome-to-my-page)
+  - [Table of Contents](#table-of-contents)
+  - [My Favorite Quote](#my-favorite-quote)
+  - [List of things I hate in no particular order](#list-of-things-i-hate-in-no-particular-order)
+  - [Don't Do This](#dont-do-this)
+  - [External Links](#external-links)
+  - [*Stuff I need to include*](#stuff-i-need-to-include)
+  - [*README*](#readme)
+
+## My Favorite Quote
 > You can't always get what you
 
-## *Some code*
-As a wise man once said:
+## List of things I hate in no particular order
+1. Cucumbers
+2. The sound of people chewing
+3. When hotdogs come in packs of eight but the buns come in packs of six
+4. The smell of seafood
+
+## Don't Do This
 ```
 sudo rm -rf /*
 ```
 
-## *Not sponsored*
-This page **IS NOT** sponsored by [Square Space](https://www.squarespace.com/)
-
-## *README*
-[README](README.md)
-
-## *List of things I hate in no particular order*
-- Cucumbers
-- The sound of people chewing
-- When hotdogs come in packs of eight but the buns come in packs of six
-- The smell of seafood
+## External Links
+You can follow my projects at [GitHub](https://github.com/danielpak1)
 
 ## *Stuff I need to include*
 - [x] Images
@@ -43,3 +41,6 @@ This page **IS NOT** sponsored by [Square Space](https://www.squarespace.com/)
 - [x] Ordered List
 - [x] Unordered Lists
 - [x] Task lists
+
+## *README*
+[README](README.md)
